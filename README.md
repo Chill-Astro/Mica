@@ -25,3 +25,5 @@ Installation steps :
 - Download the .msix and .cer file.
 - Import the .cer file (To any trusted store). [! Only for first run !]
 - Install the .msix as usual.
+
+[ NOTE ] : THIS APP DOES NOT WORK AS EXPECTED ON WINDOWS 10!
