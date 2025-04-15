@@ -1,27 +1,27 @@
-﻿*Recommended Markdown Viewer: [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)*
+Mica by Chill-Astro : A Simple App that just looks nice. Made for Windows 11!
 
-## Getting Started
+So, this app is a recreation of Mica by FireCubeStudios except it's made by a beginner.
 
-Browse and address `TODO:` comments in `View -> Task List` to learn the codebase and understand next steps for turning the generated code into production code.
+Features Include :
 
-Explore the [WinUI Gallery](https://www.microsoft.com/store/productId/9P3JFPWWDZRC) to learn about available controls and design patterns.
+- Mica Blur ✅
+- Theme Switching Baked in ✅
 
-Relaunch Template Studio to modify the project by right-clicking on the project in `View -> Solution Explorer` then selecting `Add -> New Item (Template Studio)`.
+PREVIEW [ LIGHT ] :
 
-## Publishing
+![Screenshot 2025-04-15 191045](https://github.com/user-attachments/assets/2b3dd119-9279-4c01-9e88-0602ebc54bf8)
 
-For projects with MSIX packaging, right-click on the application project and select `Package and Publish -> Create App Packages...` to create an MSIX package.
+PREVIEW [ DARK ] :
 
-For projects without MSIX packaging, follow the [deployment guide](https://docs.microsoft.com/windows/apps/windows-app-sdk/deploy-unpackaged-apps) or add the `Self-Contained` Feature to enable xcopy deployment.
+![Screenshot 2025-04-15 191103](https://github.com/user-attachments/assets/34f059eb-a2f6-4435-9f48-66815950d959)
 
-## CI Pipelines
+Requirements :
 
-See [README.md](https://github.com/microsoft/TemplateStudio/blob/main/docs/WinUI/pipelines/README.md) for guidance on building and testing projects in CI pipelines.
+- Any system running Windows 11 or Windows 10 20H2 [19041] or higher.
+- For Building from Source, install Visual Studio with WinUI Development and .NET Development Support. .NET 7.0 and WinAppSDK 26100.xxxx is required.
 
-## Changelog
+Installation steps :
 
-See [releases](https://github.com/microsoft/TemplateStudio/releases) and [milestones](https://github.com/microsoft/TemplateStudio/milestones).
-
-## Feedback
-
-Bugs and feature requests should be filed at https://aka.ms/templatestudio.
+- Download the .msix and .cer file.
+- Import the .cer file (To any trusted store). [! Only for first run !]
+- Install the .msix as usual.
