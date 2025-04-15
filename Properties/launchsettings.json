@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Mica by Chill-Astro (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Mica by Chill-Astro (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
