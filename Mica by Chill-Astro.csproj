@@ -13,9 +13,15 @@
 	<Nullable>enable</Nullable>
 	<UseWinUI>true</UseWinUI>
     <EnableMsixTooling>true</EnableMsixTooling>
-    <PackageCertificateThumbprint>D97C3A8065299FC197562617B7E422F70BE2A579</PackageCertificateThumbprint>
     <PackageCertificateKeyFile>Mica by Chill-Astro_TemporaryKey.pfx</PackageCertificateKeyFile>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxPackageDir>C:\Users\Master\Downloads\</AppxPackageDir>
+    <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <AppxBundle>Never</AppxBundle>
   </PropertyGroup>
 
   <ItemGroup>
