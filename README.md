@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Mica by Chill-Astro</h1>
 
-Mica by Chill-Astro is an App that allows you to preview your Mica Backdrop Effect from your wallpaper! This is a recreation of Mica by FireCubeStudios.
+Mica by Chill-Astro is an App that allows you to preview your Mica Backdrop Effect from your Wallpaper! This is a recreation of Mica by FireCubeStudios. 
+This app does nothing to be honest but it looks nice!
 
 Currently available for **Windows 11**.
 
