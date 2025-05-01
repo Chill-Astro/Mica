@@ -5,7 +5,7 @@
 
 Mica by Chill-Astro is an App that allows you to preview your Mica Backdrop Effect from your wallpaper! This is a recreation of Mica by FireCubeStudios.
 
-Currently available for **Windows 11 and Windows 10 [ 20H2 and Higher ]**.
+Currently available for **Windows 11**.
 
 ---
 
@@ -38,7 +38,7 @@ Currently available for **Windows 11 and Windows 10 [ 20H2 and Higher ]**.
 
 ## Requirements :
 
-* **Operating System:** Windows 11 or Windows 10 version 20H2 [ 19041 or higher ].
+* **Operating System:** Windows 11.
 * **For Building from Source:**
     * Visual Studio with the WinUI and .NET development workloads.
     * .NET 7.0 SDK
