@@ -11,7 +11,7 @@
   IgnorableNamespaces="uap rescap genTemplate">
 
   <Identity
-    Name="Mica-by-Chill-Astro"
+    Name="Mica"
     Publisher="CN=Chill-Astro"
     Version="11.26100.2.0" />
     
@@ -19,7 +19,7 @@
     
   <Properties>
     <DisplayName>Mica</DisplayName>
-    <PublisherDisplayName>Master</PublisherDisplayName>
+    <PublisherDisplayName>Chill-Astro</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
