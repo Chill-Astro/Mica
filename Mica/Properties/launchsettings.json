@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Mica (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Mica (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

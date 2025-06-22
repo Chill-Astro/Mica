@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UR8iHq9jwi8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Master\\Chill-Astro\\Mica\\Mica.Core\\Mica.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Master\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
