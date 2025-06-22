@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Master\\Chill-Astro\\Mica\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{43342143-8284-4A93-940A-2ED8C800D5A4}|Mica\\Mica.csproj|c:\\users\\master\\chill-astro\\mica\\mica\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{43342143-8284-4A93-940A-2ED8C800D5A4}|Mica\\Mica.csproj|solutionrelative:mica\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43342143-8284-4A93-940A-2ED8C800D5A4}|Mica\\Mica.csproj|c:\\users\\master\\chill-astro\\mica\\mica\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43342143-8284-4A93-940A-2ED8C800D5A4}|Mica\\Mica.csproj|solutionrelative:mica\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Chill-Astro\\Mica\\Mica\\ViewModels\\SettingsViewModel.cs",
-              "RelativeDocumentMoniker": "Mica\\ViewModels\\SettingsViewModel.cs",
-              "ToolTip": "C:\\Users\\Master\\Chill-Astro\\Mica\\Mica\\ViewModels\\SettingsViewModel.cs",
-              "RelativeToolTip": "Mica\\ViewModels\\SettingsViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T09:08:35.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SettingsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Master\\Chill-Astro\\Mica\\Mica\\Views\\SettingsPage.xaml",
-              "RelativeDocumentMoniker": "Mica\\Views\\SettingsPage.xaml",
-              "ToolTip": "C:\\Users\\Master\\Chill-Astro\\Mica\\Mica\\Views\\SettingsPage.xaml",
-              "RelativeToolTip": "Mica\\Views\\SettingsPage.xaml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-22T08:51:20.866Z",
-              "EditorCaption": ""
             }
           ]
         }
