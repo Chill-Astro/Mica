@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Chill-Astro/Mica/blob/master/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Mica Logo">
+  <img src="https://github.com/Chill-Astro/Mica/blob/main/Mica/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Mica Logo">
 </p>
 <h1 align="center">Mica by Chill-Astro</h1>
 
