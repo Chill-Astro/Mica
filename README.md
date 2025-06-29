@@ -6,13 +6,14 @@
 Mica by Chill-Astro is an App that allows you to preview your Mica Backdrop Effect from your Wallpaper! This is a recreation of Mica by FireCubeStudios. 
 This app does nothing to be honest but it looks nice!
 
-Currently available for **Windows 11**.
+Currently available for **Windows 11** ONLY.
 
 ---
 
 ## Key Features :
 
 - Mica Blur ✅
+- Settings Page for Chnaging Theme. ✅
 - Theme Switching Baked in ✅
 
 ---
@@ -31,7 +32,7 @@ Currently available for **Windows 11**.
 
 ## Installation : 
 
-1.  Download the `.msix` and `.cer` files from the [releases page.](https://github.com/Chill-Astro/Calculator/releases/tag/Latest)
+1.  Download the `.msix` and `.cer` files from the [releases page.](https://github.com/Chill-Astro/Mica/releases/tag/Latest)
 2.  Import the `.cer` file to your trusted root certificates store. (This is only required for the first installation).
 3.  Install the `.msix` file as you normally would.
 
@@ -42,9 +43,7 @@ Currently available for **Windows 11**.
 * **Operating System:** Windows 11.
 * **For Building from Source:**
     * Visual Studio with the WinUI and .NET development workloads.
-    * .NET 7.0 SDK
+    * .NET 8.0 SDK
     * Windows App SDK 26100.xxxx
 
 ---
-
-[ NOTE ] : THIS APP DOES NOT WORK AS EXPECTED ON WINDOWS 10!
