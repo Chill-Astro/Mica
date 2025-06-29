@@ -20,20 +20,20 @@ Currently available for **Windows 11** ONLY.
 
 ### PREVIEW [ LIGHT ] :
 
-![Screenshot 2025-04-15 191045](https://github.com/user-attachments/assets/2b3dd119-9279-4c01-9e88-0602ebc54bf8)
+![image](https://github.com/user-attachments/assets/d00d17d7-505d-4e0d-936c-fc7ffcb9b2bb)
 
 ---
 
 ### PREVIEW [ DARK ] :
 
-![Screenshot 2025-04-15 191103](https://github.com/user-attachments/assets/34f059eb-a2f6-4435-9f48-66815950d959)
+![image](https://github.com/user-attachments/assets/864e3dde-63f9-4bdb-ad3d-95283917ddf7)
 
 ---
 
 ## Installation : 
 
 1.  Download the `.msix` and `.cer` files from the [releases page.](https://github.com/Chill-Astro/Mica/releases/tag/Latest)
-2.  Import the `.cer` file to your trusted root certificates store. (This is only required for the first installation).
+2.  Import the `.cer` file to your trusted root certificates store. [ FIRST RUN ONLY ].
 3.  Install the `.msix` file as you normally would.
 
 ---
@@ -45,5 +45,11 @@ Currently available for **Windows 11** ONLY.
     * Visual Studio with the WinUI and .NET development workloads.
     * .NET 8.0 SDK
     * Windows App SDK 26100.xxxx
+
+---
+
+## Note from Developer :
+
+Appreciate my effort? Why not leave a Star ⭐ ! Also if forked, please credit me for my effort and thanks if you do! :)
 
 ---
